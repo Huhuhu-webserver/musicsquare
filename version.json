@@ -1,0 +1,125 @@
+{
+  "latestVersion": "1.1.9",
+  "versions": [
+    {
+      "version": "1.1.9",
+      "releaseDate": "2026-03-19",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.9.exe",
+      "changelog": "- 增加了其他语种的音乐榜单支持\n- 修复了热门歌单切换后下一首按钮失效的问题"
+    },
+    {
+      "version": "1.1.8",
+      "releaseDate": "2026-03-17",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.8.exe",
+      "changelog": "- 修复咪咕音乐在EXE中无法显示歌词的问题\n- 优化歌词获取逻辑\n- 额外增加了对粤语歌单的支持"
+    },
+    {
+      "version": "1.1.7",
+      "releaseDate": "2026-03-17",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.7.exe",
+      "changelog": "- 修复咪咕音乐无法播放的问题\n - 优化日志输出"
+    },
+    {
+      "version": "1.1.6",
+      "releaseDate": "2026-03-17",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.6.exe",
+      "changelog": "- 额外增加了对粤语歌单的支持"
+    },
+    {
+      "version": "1.1.5",
+      "releaseDate": "2026-03-17",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.5.exe",
+      "changelog": "- 修改桌面快捷方式名称（下版本生效）\n- 修复了搜索音乐数量不匹配问题\n- 更换了QQ音乐API"
+    },
+    {
+      "version": "1.1.4",
+      "releaseDate": "2026-03-09",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.4.exe",
+      "changelog": "- 例行维护"
+    },
+    {
+      "version": "1.1.3",
+      "releaseDate": "2026-03-08",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.3.exe",
+      "changelog": "- 例行维护"
+    },
+    {
+      "version": "1.1.2",
+      "releaseDate": "2026-03-05",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.2.exe",
+      "changelog": "- 优化更新方式"
+    },
+    {
+      "version": "1.1.1",
+      "releaseDate": "2026-03-05",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.1.exe",
+      "changelog": "- 例行维护\n- 增加网易云可选歌单数量"
+    },
+    {
+      "version": "1.1.0",
+      "releaseDate": "2026-03-04",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.1.0.exe",
+      "changelog": "- 增加网易云热门歌单功能\n- 增加版本更新自动检测功能"
+    },
+    {
+      "version": "1.0.9",
+      "releaseDate": "2026-03-03",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.9.exe",
+      "changelog": "* 优化本地模式内存使用"
+    },
+    {
+      "version": "1.0.8",
+      "releaseDate": "2026-03-03",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.8.exe",
+      "changelog": "- 修改样式以适配小屏幕"
+    },
+    {
+      "version": "1.0.7",
+      "releaseDate": "2026-02-28",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.7.exe",
+      "changelog": "- 优化在线模式资源占用\n- 提升在线模式的性能"
+    },
+    {
+      "version": "1.0.6",
+      "releaseDate": "2026-02-28",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.6.exe",
+      "changelog": "- 例行维护\n- 解决已知问题\n- 增加本地模式文件夹记忆功能"
+    },
+    {
+      "version": "1.0.5",
+      "releaseDate": "2026-02-27",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.5.exe",
+      "changelog": "- 增加了一键下载音乐功能\n- 优化了下载体验\n- 修复了下载相关问题"
+    },
+    {
+      "version": "1.0.4",
+      "releaseDate": "2026-02-26",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.4.exe",
+      "changelog": "- 增加了云分享功能\n- 优化了设置页面布局\n- 修复了导入导出相关问题"
+    },
+    {
+      "version": "1.0.3",
+      "releaseDate": "2026-02-26",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.3.exe",
+      "changelog": "- 修复了导入歌单功能\n- 优化了歌单编辑体验\n- 改进了弹窗样式"
+    },
+    {
+      "version": "1.0.2",
+      "releaseDate": "2025-02-26",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.2.exe",
+      "changelog": "- 优化了更新流程"
+    },
+    {
+      "version": "1.0.1",
+      "releaseDate": "2025-02-25",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.1.exe",
+      "changelog": "- 修复已知问题\n- 优化了设置功能"
+    },
+    {
+      "version": "1.0.0",
+      "releaseDate": "2025-02-24",
+      "downloadUrl": "https://whatineed-public-1301453354.cos.ap-guangzhou.myqcloud.com/music/pikachu_music-v1.0.0.exe",
+      "changelog": "- 添加了版本更新功能\n- 优化了导出功能"
+    }
+  ]
+}
